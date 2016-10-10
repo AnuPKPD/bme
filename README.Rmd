@@ -26,7 +26,7 @@
     - https://developer.apple.com/xcode/
 - `gfortran`
     - https://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
-    - sudo `tar -zxf gfortran-4.8.2-darwin13.tar.bz2 -C /`
+    - `sudo tar -zxf gfortran-4.8.2-darwin13.tar.bz2 -C /`
 
 
 ## Install `R` packages
