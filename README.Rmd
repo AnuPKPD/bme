@@ -30,14 +30,14 @@
 
 ## Install `R` packages
 
-__Install devtools__
+- Install devtools
 
 
 ```r
   install.packages("devtools")
 ```
 
-__Install dependencies__
+- Install dependencies
 
 
 ```r
@@ -45,7 +45,12 @@ __Install dependencies__
 ```
 
 
-__Install mrgsolve__
+- Install `mrgsolve`
+
+```r
+library(devtools)
+install_github("metrumresearchgroup/mrgsolve", subdir="rdev")
+```
 
 
 
