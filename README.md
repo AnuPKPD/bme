@@ -28,6 +28,26 @@
     - sudo `tar -zxf gfortran-4.8.2-darwin13.tar.bz2 -C /`
 
 
+## Install `R` packages
+
+__Install devtools__
+
+
+```r
+  install.packages("devtools")
+```
+
+__Install dependencies__
+
+
+```r
+  install.packages(c("dplyr", "RcppArmadillo", "lattice"), type="source")
+```
+
+
+__Install mrgsolve__
+
+
 
 
 
