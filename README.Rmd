@@ -2,10 +2,11 @@
 
 # Overview
 - Get `R` (must be at least `3.1.2`)
-- Get `R` studio
+- Get `Rstudio`
 - Get compilers
 - Install `mrgsolve`
     - Install `devtools`
+    - Install other dependencies
     - Instal `mrgsolve` from `github`
 
 
