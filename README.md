@@ -17,6 +17,8 @@
 
 ## Windows
 - https://cran.r-project.org/bin/windows/Rtools/
+- Get `Rtools33.exe` or something that matches your version of `R`
+- Do not get a version that is frozen
 
 ## Mac OSX
 - Xcode
