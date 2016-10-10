@@ -41,7 +41,7 @@
 
 
 ```r
-  install.packages(c("dplyr", "RcppArmadillo", "lattice"), type="source")
+  install.packages(c("dplyr", "RcppArmadillo", "lattice", "testthat", "rmarkdown"), type="source")
 ```
 
 
