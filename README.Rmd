@@ -14,14 +14,14 @@
 - R: https://cran.r-project.org/
 - Rstudio: https://www.rstudio.com/products/rstudio/download/
 
-# Compiler
+## Compiler
 
-## Windows
+### Windows
 - https://cran.r-project.org/bin/windows/Rtools/
 - Get `Rtools33.exe` or something that matches your version of `R`
 - Do not get a version that is frozen
 
-## Mac OSX
+### Mac OSX
 - `Xcode`
     - https://developer.apple.com/xcode/
 - `gfortran`
@@ -55,7 +55,11 @@ install_github("metrumresearchgroup/mrgsolve", subdir="rdev")
 
 
 
-
+## Test
+```r
+library(mrgsolve)
+example("mrgsolve")
+```
 
 
 
